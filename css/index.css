@@ -3285,15 +3285,14 @@ h1.page-title + .tag-cloud-list {
 }
 #footer {
   position: relative;
-  background-color: #49b1f5;
   background-attachment: scroll;
   background-position: bottom;
-  background-size: cover;
+  background-size: cover #fff ooter-wrap;
 }
 #footer-wrap {
   position: relative;
   padding: 40px 20px;
-  color: var(--light-grey);
+  font-size: 20px;
   text-align: center;
 }
 #footer-wrap a {
